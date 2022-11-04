@@ -1,0 +1,5 @@
+"D:\Clion\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Clion/CLion 2022.2.1/bin/ninja/win/ninja.exe" -DCMAKE_C_COMPILER=D:/GUN_Arm_Embedded_Toolchain/bin/arm-none-eabi-gcc.exe -DCMAKE_CXX_COMPILER=D:/GUN_Arm_Embedded_Toolchain/bin/arm-none-eabi-g++.exe -G Ninja -S C:\Users\liudongpeng\Desktop\STM32C8T6\Snake -B C:\Users\liudongpeng\Desktop\STM32C8T6\Snake\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/liudongpeng/Desktop/STM32C8T6/Snake/cmake-build-debug

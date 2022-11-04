@@ -1,0 +1,3 @@
+C:/Users/liudongpeng/Desktop/STM32C8T6/Snake/cmake-build-release/CMakeFiles/Snake.elf.dir
+C:/Users/liudongpeng/Desktop/STM32C8T6/Snake/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/liudongpeng/Desktop/STM32C8T6/Snake/cmake-build-release/CMakeFiles/rebuild_cache.dir
